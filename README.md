@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Japheth-Santosh
-- 👀 I’m interested in @Coding, full stack, ethical hacking
-- 🌱 I’m currently learning @Btech Computer Science of Engineering
+- 👀 I’m interested in improving and learning in Coding, Software Engineering, Game Development, Cyber Security
+- 🌱 I’m currently learning Btech Computer Science of Engineering
 - 💞️ I’m looking to collaborate on @coding or any work related
 - 📫 How to reach me @https://www.linkedin.com/in/japheth-santosh-32a905282/
 
